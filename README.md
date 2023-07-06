@@ -19,9 +19,6 @@ Hi! I'm Vitória, a computer engineering student who is passionate about technol
 ![](https://github-contributor-stats.vercel.app/api?username=ViRotta&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=ViRotta&icon=9&color=8)](https://visitcount.itsvg.in)
 
