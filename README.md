@@ -1,7 +1,7 @@
 # Hi, I'm Vitória 👋
-**Computer Engineering • Full-Stack (React + FastAPI) • Cloud track • Embedded/IoT (north star) • Applied AI**
+**Full-Stack (React/FastAPI) • Cloud track • Embedded/IoT (north star) • ML/LLMs as a feature layer**
 
-I build end-to-end products (frontend + backend + deployment). Right now I’m focused on **Full-Stack + Cloud**, while evolving toward **Embedded/IoT** solutions powered by **applied AI**.
+I design and ship full-stack products end-to-end and add ML/LLMs as a feature layer (classification, automation, assistive replies).
 
 ## 🚀 What I’m doing now
 - Shipping **Full-Stack** features with clean APIs and practical deployment
@@ -9,8 +9,8 @@ I build end-to-end products (frontend + backend + deployment). Right now I’m f
 - Keeping my long-term focus on **Embedded/IoT** (ESP32 / Embedded Linux)
 
 ## ⭐ Featured project
-- **FinanceMail** — Email classifier + suggested reply  
-  **Stack:** React (Vite) • FastAPI (Pydantic) • scikit-learn (TF-IDF + Logistic Regression) • LLaMA 3 8B Instruct  
+- **FinanceMail** — Email classification + assisted reply suggestion  
+  **Stack:** React (Vite) • FastAPI (Pydantic) • scikit-learn (TF-IDF + Logistic Regression) • LLM for reply assistance  
   Repo: https://github.com/ViRotta/FinanceMail
 
 ## 🧩 Tech
@@ -21,7 +21,8 @@ I build end-to-end products (frontend + backend + deployment). Right now I’m f
 **Infra:** Linux, Docker, Render (Static Site + Web Service)
 
 ## 🎯 Goal
-Full-Stack / Cloud roles where I can ship product — building toward **Embedded/IoT systems with AI**.
+## 🎯 Goal
+Full-Stack / Cloud roles where I can ship product end-to-end — moving toward Embedded/IoT over time and using ML/LLMs only when they strengthen the solution.
 
 ☕ Fun: coffee/tea/chimarrão while studying.
 
