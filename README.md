@@ -21,7 +21,6 @@ I design and ship full-stack products end-to-end and add ML/LLMs as a feature la
 **Infra:** Linux, Docker, Render (Static Site + Web Service)
 
 ## 🎯 Goal
-## 🎯 Goal
 Full-Stack / Cloud roles where I can ship product end-to-end — moving toward Embedded/IoT over time and using ML/LLMs only when they strengthen the solution.
 
 ☕ Fun: coffee/tea/chimarrão while studying.
